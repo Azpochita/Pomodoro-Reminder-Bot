@@ -1,4 +1,4 @@
- ![image]([https://github.com/user-attachments/assets/3bbe30c6-b178-45c2-83a7-2316c17a330a](https://media.istockphoto.com/id/1280469581/vector/timer-pomodoro-pomodoro-time-management-kitchen-timer-mechanical-clock-timer-for-working.jpg?s=612x612&w=0&k=20&c=TvE1Dv8YeMvxqMuJb5XJzm5ixEMnWJmkiKACpb4dPDc=))
+ ![image]([[https://github.com/user-attachments/assets/3bbe30c6-b178-45c2-83a7-2316c17a330a](https://media.istockphoto.com/id/1280469581/vector/timer-pomodoro-pomodoro-time-management-kitchen-timer-mechanical-clock-timer-for-working.jpg?s=612x612&w=0&k=20&c=TvE1Dv8YeMvxqMuJb5XJzm5ixEMnWJmkiKACpb4dPDc=)](https://github.com/Azpochita/Pomodoro-Reminder-Bot/blob/main/images/15-Productive-Things-To-Do-During-Pomodoro-Breaks-img.webp))
 # Pomodoro Reminder Bot
 
 A bot designed to help you stay on track with your tasks using the Pomodoro technique.
